@@ -11,7 +11,7 @@
 # See the Mulan PSL v1 for more details.
 #
 
-Sizesdic=(0 1024 5120 10240 15360 20480 25600 30720 35840 40960 46080 51200)
+Sizesdic=(35840 40960 46080 51200)
 #Sizesdic=(0)
 
 for payload_size in ${Sizesdic[@]}
