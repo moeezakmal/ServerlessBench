@@ -1,0 +1,40 @@
+default mode: warm
+default warm loop times: 10
+default warm up times: 1
+Warm up..
+The 1-th warmup...
+Warm up complete
+Measure warm start up time: no.1
+invokeTime: 1709594688142, startTime: 1709594688217, endTime: 1709594688314
+Latency: 172 ms
+Measure warm start up time: no.2
+invokeTime: 1709594688359, startTime: 1709594688431, endTime: 1709594688491
+Latency: 132 ms
+Measure warm start up time: no.3
+invokeTime: 1709594688536, startTime: 1709594688600, endTime: 1709594688673
+Latency: 137 ms
+Measure warm start up time: no.4
+invokeTime: 1709594688722, startTime: 1709594688801, endTime: 1709594688866
+Latency: 144 ms
+Measure warm start up time: no.5
+invokeTime: 1709594688910, startTime: 1709594688983, endTime: 1709594689078
+Latency: 168 ms
+Measure warm start up time: no.6
+invokeTime: 1709594689122, startTime: 1709594689190, endTime: 1709594689331
+Latency: 209 ms
+Measure warm start up time: no.7
+invokeTime: 1709594689376, startTime: 1709594689443, endTime: 1709594689575
+Latency: 199 ms
+Measure warm start up time: no.8
+invokeTime: 1709594689620, startTime: 1709594689691, endTime: 1709594689822
+Latency: 202 ms
+Measure warm start up time: no.9
+invokeTime: 1709594689867, startTime: 1709594689937, endTime: 1709594690069
+Latency: 202 ms
+Measure warm start up time: no.10
+invokeTime: 1709594690115, startTime: 1709594690180, endTime: 1709594690225
+Latency: 110 ms
+------------------ result ---------------------
+Latency (ms):
+Avg	50%	75%	90%	95%	99%	
+167	168	199	202	202	202	

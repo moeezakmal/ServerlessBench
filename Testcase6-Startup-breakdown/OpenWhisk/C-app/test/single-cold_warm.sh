@@ -153,6 +153,8 @@ do
     # The array starts from array[1], not array[0]!
     LATENCIES[$i]=$latency
 
+    echo "Latency: $latency ms"
+
     if [[ $PRINTLOG = true ]];then
         echo "$invokeTime,$startTime,$endTime" >> $LOGFILE
     fi
